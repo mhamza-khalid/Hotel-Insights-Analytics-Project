@@ -5,4 +5,4 @@ The revenue was found using SUM function.
 Joins are used to join meals and market segment into main table.
 In PowerBi custom table was added for revenue.
 The PowerBi file contains the Dashboard.
-Feel free to explore the dashboard!
+Feel free to explore the UPDATED dashboard!
